@@ -23,7 +23,6 @@ ITNPA4-Project/
     README.md                      <- how to run the web app
     Q2.3_app.py                      <- Streamlit app (Q2.3)
     best_model.joblib              <- tuned model saved in Q2
-    requirements.txt               <- packages the app needs
 ```
 
 ## Running the notebooks
