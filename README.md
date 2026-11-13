@@ -21,7 +21,7 @@ ITNPA4-Project/
     lda_intertopic_map.html        <- pyLDAvis topic map
   Deployment/
     README.md                      <- how to run the web app
-    Q2.3_app.py                      <- Streamlit app
+    Q2.3_app.py                    <- Streamlit app
     best_model.joblib              <- tuned model saved in Q2
 ```
 
