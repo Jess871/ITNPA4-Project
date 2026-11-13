@@ -10,18 +10,18 @@ ITNPA4-Project/
   Documentation/
     ITNPA4 - Documentation.pdf     <- written report
   Datasets/
-    research_abstracts.json        <- raw abstracts supplied (Q1 & Q2)
+    research_abstracts.json        <- raw abstracts supplied
     cleaned_abstracts.csv          <- cleaned abstracts from Q1
-    research_corpus.zip            <- research articles supplied (Q3 & Q4)
+    research_corpus.zip            <- research articles supplied
     research_corpus_clean.csv      <- cleaned articles from Q3
   Notebooks/
     Question1.ipynb                <- cleaning, EDA, features and baseline model
     Question2.ipynb                <- model comparison and tuning
     Question3-4.ipynb              <- summarisation and topic modelling
-    lda_intertopic_map.html        <- pyLDAvis topic map (Q4.2)
+    lda_intertopic_map.html        <- pyLDAvis topic map
   Deployment/
     README.md                      <- how to run the web app
-    Q2.3_app.py                      <- Streamlit app (Q2.3)
+    Q2.3_app.py                      <- Streamlit app
     best_model.joblib              <- tuned model saved in Q2
 ```
 
